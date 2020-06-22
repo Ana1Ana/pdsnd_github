@@ -14,8 +14,10 @@ chicago.csv
 washington.csv
 
 ### Credits
+I've checked the following links to add new functionalities to my code:
+
 https://stackoverflow.com/questions/37625334/python-pandas-convert-month-int-to-month-name
-    #https://docs.python.org/2/library/calendar.html
-    #https://www.w3schools.com/python/numpy_ufunc_rounding_decimals.asp
-    #https://stackoverflow.com/questions/26266362/how-to-count-the-nan-values-in-a-column-in-pandas-dataframe
-    #https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html
+https://docs.python.org/2/library/calendar.html
+https://www.w3schools.com/python/numpy_ufunc_rounding_decimals.asp
+https://stackoverflow.com/questions/26266362/how-to-count-the-nan-values-in-a-column-in-pandas-dataframe
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html
