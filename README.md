@@ -5,7 +5,7 @@ This project was created on the 22nd of June 2020.
 Explore bikeshare data with Python.
 
 ### Description
-This project explores the bikeshare data for New York, Washington and Chicago.
+This project explores the bikeshare data for New York, Washington and Chicago. You can filter the data by month, day, or see unfiltered data.
 
 ### Files used
 The files used were the following:
